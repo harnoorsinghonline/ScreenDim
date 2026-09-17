@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Screen Dimmer</string>
+    <string name="dim_level_fmt">Dim: %d%%</string>
+    <string name="overlay_perm_needed">Please grant the overlay permission, then press Start Dimming again</string>
+</resources>
